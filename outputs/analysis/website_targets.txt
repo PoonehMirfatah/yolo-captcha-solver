@@ -1,0 +1,9 @@
+Bicycle
+Bridge
+Bus
+Car
+Cross
+Hydrant
+Motorcycle
+Stair
+Tlight

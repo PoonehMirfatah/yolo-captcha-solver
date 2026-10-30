@@ -1,0 +1,162 @@
+image_path,true_label,pred_label,confidence,correct
+dataset_9\val\Bicycle\Bicycle_Bicycle (683).png,Bicycle,Car,0.4273070693016052,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (694).png,Bicycle,Cross,0.9167397618293762,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (700).png,Bicycle,Cross,0.7831782102584839,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (704).png,Bicycle,Car,0.4060623049736023,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (707).png,Bicycle,Cross,0.7864282727241516,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (718).png,Bicycle,Motorcycle,0.826652467250824,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (728).png,Bicycle,Car,0.8382012248039246,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (75).png,Bicycle,Motorcycle,0.7499745488166809,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (769).png,Bicycle,Car,0.38140496611595154,False
+dataset_9\val\Bicycle\Bicycle_Bicycle (89).png,Bicycle,Motorcycle,0.9646983742713928,False
+dataset_9\val\Bridge\Bridge_Bridge (501).png,Bridge,Car,0.9596858024597168,False
+dataset_9\val\Bridge\Bridge_Bridge (508).png,Bridge,Car,0.9532484412193298,False
+dataset_9\val\Bridge\Bridge_Bridge (511).png,Bridge,Tlight,0.630728542804718,False
+dataset_9\val\Bridge\Bridge_Bridge (521).png,Bridge,Stair,0.362386554479599,False
+dataset_9\val\Bridge\Bridge_Bridge (533).png,Bridge,Car,0.5668322443962097,False
+dataset_9\val\Bridge\Bridge_Bridge (535).png,Bridge,Car,0.8007492423057556,False
+dataset_9\val\Bridge\Bridge_Bridge (536).png,Bridge,Car,0.782099187374115,False
+dataset_9\val\Bridge\Bridge_Bridge (537).png,Bridge,Car,0.7052046656608582,False
+dataset_9\val\Bridge\Bridge_Bridge (538).png,Bridge,Car,0.7961082458496094,False
+dataset_9\val\Bridge\Bridge_Bridge (540).png,Bridge,Car,0.42078518867492676,False
+dataset_9\val\Bridge\Bridge_Bridge (541).png,Bridge,Bus,0.804056704044342,False
+dataset_9\val\Bridge\Bridge_Bridge (545).png,Bridge,Car,0.5426009893417358,False
+dataset_9\val\Bridge\Bridge_Bridge (547).png,Bridge,Stair,0.8628084659576416,False
+dataset_9\val\Bridge\Bridge_Bridge (56).png,Bridge,Car,0.9063653349876404,False
+dataset_9\val\Bridge\Bridge_Bridge (60).png,Bridge,Car,0.727994978427887,False
+dataset_9\val\Bridge\Bridge_Bridge (66).png,Bridge,Car,0.6363343000411987,False
+dataset_9\val\Bridge\Bridge_Bridge (75).png,Bridge,Car,0.80710369348526,False
+dataset_9\val\Bridge\Bridge_Bridge (78).png,Bridge,Car,0.9517304301261902,False
+dataset_9\val\Bridge\Bridge_Bridge (82).png,Bridge,Car,0.7653555274009705,False
+dataset_9\val\Bridge\Bridge_Bridge (84).png,Bridge,Car,0.6154596209526062,False
+dataset_9\val\Bridge\Bridge_Bridge (85).png,Bridge,Car,0.5460901856422424,False
+dataset_9\val\Bridge\Bridge_Bridge (87).png,Bridge,Cross,0.9490179419517517,False
+dataset_9\val\Bus\Bus_Bus (788).png,Bus,Car,0.9195232391357422,False
+dataset_9\val\Bus\Bus_Bus (796).png,Bus,Car,0.38492515683174133,False
+dataset_9\val\Bus\Bus_Bus (805).png,Bus,Car,0.5717183351516724,False
+dataset_9\val\Bus\Bus_Bus (808).png,Bus,Bridge,0.7087718844413757,False
+dataset_9\val\Bus\Bus_Bus (809).png,Bus,Car,0.9569700360298157,False
+dataset_9\val\Bus\Bus_Bus (824).png,Bus,Car,0.37489205598831177,False
+dataset_9\val\Bus\Bus_Bus (834).png,Bus,Cross,0.7186605334281921,False
+dataset_9\val\Bus\Bus_Bus (845).png,Bus,Car,0.863947868347168,False
+dataset_9\val\Bus\Bus_Bus (859).png,Bus,Bicycle,0.34797072410583496,False
+dataset_9\val\Bus\Bus_Bus (881).png,Bus,Tlight,0.8791621327400208,False
+dataset_9\val\Bus\Bus_Bus (907).png,Bus,Car,0.932653546333313,False
+dataset_9\val\Bus\Bus_Bus (927).png,Bus,Car,0.7454249858856201,False
+dataset_9\val\Bus\Bus_Bus (932).png,Bus,Car,0.8007050156593323,False
+dataset_9\val\Bus\Bus_Bus (933).png,Bus,Bicycle,0.3376825451850891,False
+dataset_9\val\Bus\Bus_Bus (949).png,Bus,Car,0.5808731913566589,False
+dataset_9\val\Bus\Bus_Bus (950).png,Bus,Car,0.4524557292461395,False
+dataset_9\val\Bus\Bus_Bus (964).png,Bus,Car,0.531982421875,False
+dataset_9\val\Bus\Bus_Bus (969).png,Bus,Car,0.8789076805114746,False
+dataset_9\val\Bus\Bus_Bus (98).png,Bus,Car,0.6520870327949524,False
+dataset_9\val\Bus\Bus_Bus (993).png,Bus,Car,0.9343507885932922,False
+dataset_9\val\Bus\Bus_Bus (999).png,Bus,Car,0.3664219379425049,False
+dataset_9\val\Car\Car_Car (3577).png,Car,Cross,0.8567511439323425,False
+dataset_9\val\Car\Car_Car (361).png,Car,Bus,0.5592098236083984,False
+dataset_9\val\Car\Car_Car (371).png,Car,Cross,0.9189131855964661,False
+dataset_9\val\Car\Car_Car (38).png,Car,Bridge,0.839715301990509,False
+dataset_9\val\Car\Car_Car (447).png,Car,Bus,0.9924781322479248,False
+dataset_9\val\Car\Car_Car (452).png,Car,Bicycle,0.9918288588523865,False
+dataset_9\val\Car\Car_Car (454).png,Car,Cross,0.8172215819358826,False
+dataset_9\val\Car\Car_Car (474).png,Car,Bicycle,0.4621829688549042,False
+dataset_9\val\Car\Car_Car (48).png,Car,Cross,0.9991558790206909,False
+dataset_9\val\Car\Car_Car (505).png,Car,Bicycle,0.6586872935295105,False
+dataset_9\val\Car\Car_Car (519).png,Car,Cross,0.5318704843521118,False
+dataset_9\val\Car\Car_Car (54).png,Car,Cross,0.9806892275810242,False
+dataset_9\val\Car\Car_Car (552).png,Car,Bicycle,0.44320616126060486,False
+dataset_9\val\Car\Car_Car (581).png,Car,Bus,0.5487780570983887,False
+dataset_9\val\Car\Car_Car (605).png,Car,Tlight,0.8436388373374939,False
+dataset_9\val\Car\Car_Car (606).png,Car,Bus,0.9325597286224365,False
+dataset_9\val\Car\Car_Car (611).png,Car,Tlight,0.7434874773025513,False
+dataset_9\val\Car\Car_Car (630).png,Car,Bridge,0.6110732555389404,False
+dataset_9\val\Car\Car_Car (64).png,Car,Tlight,0.5296728610992432,False
+dataset_9\val\Car\Car_Car (641).png,Car,Cross,0.9697000980377197,False
+dataset_9\val\Car\Car_Car (657).png,Car,Stair,0.6660923361778259,False
+dataset_9\val\Car\Car_Car (666).png,Car,Stair,0.3277578353881836,False
+dataset_9\val\Car\Car_Car (697).png,Car,Cross,0.9581292867660522,False
+dataset_9\val\Car\Car_Car (706).png,Car,Bus,0.9952874183654785,False
+dataset_9\val\Car\Car_Car (707).png,Car,Cross,0.9117360711097717,False
+dataset_9\val\Car\Car_Car (725).png,Car,Cross,0.4583226442337036,False
+dataset_9\val\Car\Car_Car (730).png,Car,Bridge,0.5719782710075378,False
+dataset_9\val\Car\Car_Car (74).png,Car,Bridge,0.33638373017311096,False
+dataset_9\val\Car\Car_Car (751).png,Car,Bus,0.9751685857772827,False
+dataset_9\val\Car\Car_Car (754).png,Car,Bus,0.993933379650116,False
+dataset_9\val\Car\Car_Car (757).png,Car,Bicycle,0.9758711457252502,False
+dataset_9\val\Car\Car_Car (767).png,Car,Tlight,0.968010663986206,False
+dataset_9\val\Car\Car_Car (77).png,Car,Tlight,0.8611978888511658,False
+dataset_9\val\Car\Car_Car (773).png,Car,Bridge,0.5812084078788757,False
+dataset_9\val\Car\Car_Car (785).png,Car,Cross,0.9942048192024231,False
+dataset_9\val\Car\Car_Car (786).png,Car,Tlight,0.43513327836990356,False
+dataset_9\val\Car\Car_Car (830).png,Car,Bus,0.9727979302406311,False
+dataset_9\val\Car\Car_Car (833).png,Car,Cross,0.9873546957969666,False
+dataset_9\val\Car\Car_Car (841).png,Car,Cross,0.9148925542831421,False
+dataset_9\val\Car\Car_Car (842).png,Car,Bridge,0.9556390047073364,False
+dataset_9\val\Car\Car_Car (861).png,Car,Cross,0.8091882467269897,False
+dataset_9\val\Car\Car_Car (865).png,Car,Cross,0.9841403961181641,False
+dataset_9\val\Car\Car_Car (870).png,Car,Bus,0.9896268844604492,False
+dataset_9\val\Car\Car_Car (889).png,Car,Cross,0.7512418031692505,False
+dataset_9\val\Car\Car_Car (890).png,Car,Bus,0.9899382591247559,False
+dataset_9\val\Car\Car_Car (891).png,Car,Bus,0.8533626794815063,False
+dataset_9\val\Car\Car_Car (893).png,Car,Cross,0.746852457523346,False
+dataset_9\val\Car\Car_Car (899).png,Car,Cross,0.49759259819984436,False
+dataset_9\val\Car\Car_Car (900).png,Car,Bridge,0.6919239163398743,False
+dataset_9\val\Car\Car_Car (901).png,Car,Bus,0.6331831812858582,False
+dataset_9\val\Car\Car_Car (903).png,Car,Bus,0.8524194955825806,False
+dataset_9\val\Car\Car_Car (905).png,Car,Cross,0.8616020083427429,False
+dataset_9\val\Car\Car_Car (927).png,Car,Tlight,0.7549832463264465,False
+dataset_9\val\Car\Car_Car (934).png,Car,Bus,0.9788835048675537,False
+dataset_9\val\Car\Car_Car (948).png,Car,Cross,0.4316105246543884,False
+dataset_9\val\Car\Car_Car (96).png,Car,Bus,0.8417230844497681,False
+dataset_9\val\Car\Car_Car (972).png,Car,Bus,0.7382107973098755,False
+dataset_9\val\Car\Car_Car (977).png,Car,Stair,0.5621368885040283,False
+dataset_9\val\Car\Car_Car (992).png,Car,Bus,0.873349666595459,False
+dataset_9\val\Car\Car_Car (993).png,Car,Stair,0.9758313298225403,False
+dataset_9\val\Car\Car_Car (996).png,Car,Bus,0.7210739850997925,False
+dataset_9\val\Cross\Crosswalk_Cross (784).png,Cross,Stair,0.5608429908752441,False
+dataset_9\val\Cross\Crosswalk_Cross (79).png,Cross,Car,0.5750870704650879,False
+dataset_9\val\Cross\Crosswalk_Cross (800).png,Cross,Car,0.9192041158676147,False
+dataset_9\val\Cross\Crosswalk_Cross (806).png,Cross,Bridge,0.5680004954338074,False
+dataset_9\val\Cross\Crosswalk_Cross (809).png,Cross,Car,0.5293810963630676,False
+dataset_9\val\Cross\Crosswalk_Cross (81).png,Cross,Bridge,0.753660261631012,False
+dataset_9\val\Cross\Crosswalk_Cross (834).png,Cross,Tlight,0.41752713918685913,False
+dataset_9\val\Cross\Crosswalk_Cross (847).png,Cross,Car,0.8173665404319763,False
+dataset_9\val\Cross\Crosswalk_Cross (87).png,Cross,Car,0.7457512021064758,False
+dataset_9\val\Cross\Crosswalk_Cross (871).png,Cross,Tlight,0.5957122445106506,False
+dataset_9\val\Cross\Crosswalk_Cross (883).png,Cross,Car,0.8410283923149109,False
+dataset_9\val\Cross\Crosswalk_Cross (891).png,Cross,Bicycle,0.9979092478752136,False
+dataset_9\val\Cross\Crosswalk_Cross (902).png,Cross,Car,0.4935687184333801,False
+dataset_9\val\Cross\Crosswalk_Cross (914).png,Cross,Bicycle,0.75981205701828,False
+dataset_9\val\Cross\Crosswalk_Cross (921).png,Cross,Tlight,0.5383471846580505,False
+dataset_9\val\Cross\Crosswalk_Cross (976).png,Cross,Bicycle,0.9126289486885071,False
+dataset_9\val\Cross\Crosswalk_Cross (979).png,Cross,Car,0.851317286491394,False
+dataset_9\val\Cross\Crosswalk_Cross (980).png,Cross,Tlight,0.6854066848754883,False
+dataset_9\val\Cross\Crosswalk_Cross (986).png,Cross,Bus,0.8831523656845093,False
+dataset_9\val\Cross\Crosswalk_Cross (996).png,Cross,Car,0.6280884146690369,False
+dataset_9\val\Motorcycle\Motorcycle_Motorcycle (86).png,Motorcycle,Cross,0.6483648419380188,False
+dataset_9\val\Motorcycle\Motorcycle_Motorcycle (93).png,Motorcycle,Car,0.6525848507881165,False
+dataset_9\val\Motorcycle\Motorcycle_Motorcycle (94).png,Motorcycle,Bicycle,0.8774731159210205,False
+dataset_9\val\Motorcycle\Motorcycle_Motorcycle (97).png,Motorcycle,Bicycle,0.7936958074569702,False
+dataset_9\val\Stair\Stair_Stair (483).png,Stair,Bus,0.5239011645317078,False
+dataset_9\val\Stair\Stair_Stair (792).png,Stair,Tlight,0.7290441989898682,False
+dataset_9\val\Stair\Stair_Stair (861).png,Stair,Car,0.5190267562866211,False
+dataset_9\val\Stair\Stair_Stair (945).png,Stair,Bus,0.6063103079795837,False
+dataset_9\val\Tlight\Traffic Light_Tlight (689).png,Tlight,Car,0.5574172735214233,False
+dataset_9\val\Tlight\Traffic Light_Tlight (69).png,Tlight,Car,0.779151201248169,False
+dataset_9\val\Tlight\Traffic Light_Tlight (694).png,Tlight,Car,0.5271475315093994,False
+dataset_9\val\Tlight\Traffic Light_Tlight (70).png,Tlight,Car,0.5530632734298706,False
+dataset_9\val\Tlight\Traffic Light_Tlight (700).png,Tlight,Car,0.5569707751274109,False
+dataset_9\val\Tlight\Traffic Light_Tlight (703).png,Tlight,Car,0.8170394897460938,False
+dataset_9\val\Tlight\Traffic Light_Tlight (723).png,Tlight,Car,0.6203153133392334,False
+dataset_9\val\Tlight\Traffic Light_Tlight (724).png,Tlight,Car,0.7533739805221558,False
+dataset_9\val\Tlight\Traffic Light_Tlight (745).png,Tlight,Car,0.5453642010688782,False
+dataset_9\val\Tlight\Traffic Light_Tlight (75).png,Tlight,Car,0.8675354719161987,False
+dataset_9\val\Tlight\Traffic Light_Tlight (750).png,Tlight,Car,0.7631474137306213,False
+dataset_9\val\Tlight\Traffic Light_Tlight (782).png,Tlight,Car,0.5738987326622009,False
+dataset_9\val\Tlight\Traffic Light_Tlight (791).png,Tlight,Car,0.8603821992874146,False
+dataset_9\val\Tlight\Traffic Light_Tlight (799).png,Tlight,Cross,0.5051329135894775,False
+dataset_9\val\Tlight\Traffic Light_Tlight (806).png,Tlight,Car,0.9571492075920105,False
+dataset_9\val\Tlight\Traffic Light_Tlight (807).png,Tlight,Car,0.6050342321395874,False
+dataset_9\val\Tlight\Traffic Light_Tlight (9).png,Tlight,Stair,0.9671384692192078,False
+dataset_9\val\Tlight\Traffic Light_Tlight (91).png,Tlight,Cross,0.6972456574440002,False
+dataset_9\val\Tlight\Traffic Light_Tlight (99).png,Tlight,Car,0.5971680879592896,False

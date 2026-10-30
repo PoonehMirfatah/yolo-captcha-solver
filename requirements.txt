@@ -1,0 +1,8 @@
+# Install with: python -m pip install -r requirements.txt
+ultralytics
+selenium
+Pillow
+pandas
+matplotlib
+scikit-learn
+jupyter

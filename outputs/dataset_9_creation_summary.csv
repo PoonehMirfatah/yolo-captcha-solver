@@ -1,0 +1,19 @@
+split,target_class,source_class,image_count
+train,Bicycle,Bicycle,624
+train,Bridge,Bridge,426
+train,Bus,Bus,967
+train,Car,Car,2846
+train,Cross,Crosswalk,992
+train,Hydrant,Hydrant,762
+train,Motorcycle,Motorcycle,65
+train,Stair,Stair,169
+train,Tlight,Traffic Light,633
+val,Bicycle,Bicycle,156
+val,Bridge,Bridge,107
+val,Bus,Bus,242
+val,Car,Car,712
+val,Cross,Crosswalk,248
+val,Hydrant,Hydrant,190
+val,Motorcycle,Motorcycle,16
+val,Stair,Stair,42
+val,Tlight,Traffic Light,158

@@ -1,0 +1,27 @@
+# Python and notebook transient files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Large training datasets are not included in the submitted archive.
+# Keep them outside normal Git history; use external storage / Git LFS if appropriate.
+/dataset/
+/dataset_9/
+
+# Large generated videos, browser drivers and local IDE/OS files
+*.mp4
+chromedriver.exe
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
